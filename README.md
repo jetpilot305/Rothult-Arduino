@@ -24,3 +24,29 @@ PA5   | O   | SCLK to RFID
 PA6   | I   | MISO from RFID
 PA7   | O   | MOSI to RFID
 PB0   | I   | IRQ from RFID
+
+**Add STM32duino to Arduino**
+
+![Arduino STM](/Images/ArduinoSTM32.JPG)
+
+**Add L051 variant**
+
+L051 variant needs to be added to STM32Arduino package by adding/modifying files at
+> C:\Users\...\AppData\Local\Arduino15\packages\STM32\hardware
+
+**Arduino Configuration**    
+![Arduino Configuration](/Images/ArduinoConfig.JPG)
+
+**Compile Code using Arduino**
+
+![Arduino Compile](/Images/ArduinoCompile.JPG)
+
+**Connect ST-LINK to SWD interface using Rothult Header**
+
+![ST-LINK Connection](/Images/SWDconnect.jpg)
+
+**Program device using ST-Link**
+
+![ST-LINK Program](/Images/StlinkProgram.JPG)
+
+
