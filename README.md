@@ -1,6 +1,16 @@
 # Rothult-Arduino
 Arduino code to repurpose Ikea Rothult lock for serial control
 
+Accepts single character commands from serial input (9600,n,8,1)
+
+Character|Command
+-|-
+B|Buzzer
+O|Open
+C|Close
+1|Small move CW
+2|Small move CCW
+
 **STM32L051K86 UFQFPN32**
 
 ![Pinout](/Images/Pinout.JPG)
