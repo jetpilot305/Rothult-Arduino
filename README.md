@@ -1,7 +1,7 @@
 # Rothult-Arduino
 Arduino code to repurpose Ikea Rothult lock for serial control
 
-**STM32L051**
+**STM32L051K86 UFQFPN32**
 
 ![Pinout](/Images/Pinout.JPG)
 
