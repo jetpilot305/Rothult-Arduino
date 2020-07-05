@@ -25,6 +25,12 @@ PA6   | I   | MISO from RFID
 PA7   | O   | MOSI to RFID
 PB0   | I   | IRQ from RFID
 
+**Based on the work from Brian McEvoy & Allmänt Grinande**
+
+(https://blognamn.wordpress.com/2018/11/01/teardown-of-the-ikea-rothult-rfid-lock/)
+
+(https://hackaday.com/2019/05/05/ripping-up-a-rothult/)
+
 **Add STM32duino to Arduino**
 
 ![Arduino STM](/Images/ArduinoSTM32.JPG)
