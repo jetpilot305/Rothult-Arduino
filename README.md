@@ -1,4 +1,6 @@
 # Rothult-Arduino
+**Now Arduino programmable and Serial controlled**
+
 Arduino code to repurpose Ikea Rothult lock for serial control
 
 Accepts single character commands from serial input (9600,n,8,1)
