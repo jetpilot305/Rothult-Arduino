@@ -28,8 +28,8 @@ PB4   | I   | Switch (extended)
 PB5   | I   | Switch (restracted)
 PB7   | O   | Motor CW
 PB8   | O   | Motor CCW
-PC14  | I   | Battery Kill
-PA1   | O   | set to 0 for battery ref
+PC14  | I   | Battery Load (100 Ohm)
+PA1   | O   | Battery Voltage Divider Reference (set to 0) 
 PA2   | I   | Battery Volt/2
 PA4   | O   | ~SS to RFID
 PA5   | O   | SCLK to RFID
