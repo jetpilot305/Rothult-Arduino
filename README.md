@@ -37,6 +37,16 @@ PA6|I|MISO from RFID
 PA7|O|MOSI to RFID
 PB0|I|IRQ from RFID
 
+**Header**
+Pin|Connection
+-|-
+1|SWCLK
+2|SWDIO
+3|+3V
+4|GND
+5|USART1 RX
+6|USART1 TX
+
 **Based on the work from Brian McEvoy & Allmänt Grinande**
 
 (https://blognamn.wordpress.com/2018/11/01/teardown-of-the-ikea-rothult-rfid-lock/)
